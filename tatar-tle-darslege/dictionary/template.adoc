@@ -1,0 +1,17 @@
+=== Словарь к уроку 12
+
+TODO: replace   `ې` to `ىُ`
+
+TODO: replace `ك`  to `ک`
+
+TODO: replace `خ`  to `ح`
+
+TODO: replace `غ`  to `ع`
+
+USE: `ࢭ`
+
+|===
+| Рус  |  Тат  |  Яңа имлә
+
+|  |  |
+|===
